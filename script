@@ -1,7 +1,7 @@
 //PUT YOUR MIXPANEL TOKEN AND SECRET BELOW:
 const credentials = {
-    "token": "token",
-    "secret": "secret"
+    "token": "Your Mixpanel token here",
+    "secret": "Your Mixpanel secret here"
 }
 
 
